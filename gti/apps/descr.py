@@ -25,7 +25,7 @@ table = pn.widgets.Tabulator(
     df.head(0),
     disabled=True, # disable editing => clicking anywhere selects the row
     header_filters=True,
-    hidden_columns=['dummy'],
+    # hidden_columns=['dummy'],
     pagination='remote',
     page_size=3,
     selectable=1,

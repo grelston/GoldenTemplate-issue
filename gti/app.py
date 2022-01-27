@@ -3,8 +3,6 @@ import panel as pn
 from .apps import descr, linked
 
 
-golden = pn.template.GoldenTemplate(title='Linked Tabulators')
-
 def link_tabs(*events):
     for event in events:
         if event.name == 'selection':
@@ -17,6 +15,8 @@ descr.table.param.watch(
     parameter_names=['selection'],
     onlychanged=False,
 )
+
+golden = pn.template.GoldenTemplate(title='Linked Tabulators')
 
 golden.sidebar.append(linked.descr_display)
 
