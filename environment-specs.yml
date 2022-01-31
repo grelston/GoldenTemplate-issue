@@ -1,0 +1,10 @@
+name: gti
+channels:
+  - pyviz/label/dev
+  - defaults
+dependencies:
+  - notebook
+  - panel=0.13.0a31
+  - python=3.9
+  - openpyxl
+  - pandas

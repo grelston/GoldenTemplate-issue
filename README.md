@@ -56,7 +56,7 @@ The above screenshots show the GoldenLayout app after:
 ### Software version info
 conda environment.yml:
 ```yml
-name: test
+name: gti
 channels:
   - pyviz/label/dev
   - defaults
