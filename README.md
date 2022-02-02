@@ -9,7 +9,7 @@ A new row can be added to the first Tabulator by clicking the button *iff* the h
 
 
 ### Observed appearance
-<img src="screenshots/LinkTabs-hidesome-descr.png" width="49%" /> <img src="screenshots/LinkTabs-hidesome-linked.png" width="49%" />
+<img src="screenshots/GTI-UI-App/LinkTabs-hidesome-descr.png" width="49%" /> <img src="screenshots/GTI-UI-App/LinkTabs-hidesome-linked.png" width="49%" />
 
 Note that the table headers are missing from the Linked UI tab (right-hand image).
 
@@ -24,7 +24,7 @@ The above screenshots show the GoldenLayout app after either:
 
 </details>
 
-<img src="screenshots/LinkTabs-showall-descr.png" width="49%" /> <img src="screenshots/LinkTabs-showall-linked.png" width="49%" />
+<img src="screenshots/GTI-UI-App/LinkTabs-showall-descr.png" width="49%" /> <img src="screenshots/GTI-UI-App/LinkTabs-showall-linked.png" width="49%" />
 
 Note that the table headers are not aligned to the table data (for both tables) in the Linked UI tab (right-hand image).
 
@@ -39,7 +39,7 @@ The above screenshots show the GoldenLayout app after:
 </details>
 
 ### Expected appearance
-<img src="screenshots/LinkTabs-aim-descr.png" width="49%"/> <img src="screenshots/LinkTabs-aim-linked.png" width="49%"/>
+<img src="screenshots/GTI-UI-App/LinkTabs-aim-descr.png" width="49%"/> <img src="screenshots/GTI-UI-App/LinkTabs-aim-linked.png" width="49%"/>
 
 Note that the headers are visible, the data columns and headers are aligned, and the `dummy` and `code_idx` columns are hidden.
 
